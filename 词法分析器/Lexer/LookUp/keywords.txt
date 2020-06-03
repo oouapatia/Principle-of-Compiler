@@ -1,0 +1,12 @@
+int 0
+char 1
+double 2
+float 3
+while 4
+if 5
+for 6
+break 7
+continue 8
+return 9
+main 10
+false 12
