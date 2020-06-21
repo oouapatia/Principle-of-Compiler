@@ -1,0 +1,3 @@
+A->[B
+B->X]|BA
+X->Xa|Xb|a|b

@@ -1,0 +1,3 @@
+A->Bcd
+B->Ce|f
+C->Ab|c
